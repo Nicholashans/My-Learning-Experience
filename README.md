@@ -1,6 +1,7 @@
 # My-Learning-Experience
+*Testing from dicoding*
 
+Hari ini aku belajar bahasa pemrograman Java di Dicoding sebesar 21%. 
+Menambahkan progres belajar Java menjadi 56%.
 
-“Hari ini aku belajar bahasa pemrograman Java di Dicoding sebesar 21%. 
-
-Jika kamu tertarik, kamu bisa mengaksesnya di https://www.dicoding.com/academies/60/.”
+Jika kamu tertarik, kamu bisa mengaksesnya di https://www.dicoding.com/academies/60/.
